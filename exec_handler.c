@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- *exec_handler - creates a child process and schedule execution or it used to to replace the current process img withjj a new one
+ *exec_handler - it used to to replace the current process img with a new one
  *@_args: arguments to use in the execution of the program
  *@av: parameter to indicate the name of the shell
  *@env:environ variable

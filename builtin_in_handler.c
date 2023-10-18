@@ -1,7 +1,6 @@
 #include "shell.h"
-
 /**
-  * built_in handler - it chooses the correct function depending on the input or it is a library that handel specific task
+  * built_in_handler - library that handel specific task
   * @_args: the array with inputs
   * @env: environmental variable
   *

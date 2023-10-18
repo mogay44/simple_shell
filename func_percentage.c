@@ -76,3 +76,4 @@ void printDec(va_list va, int *p)
 	r = print_Number(c, p);
 	p += r;
 }
+
